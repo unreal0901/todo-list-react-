@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Input from "./components/Input";
 import Todolist from "./components/Todolist";
-import "./app.css";
 
 import { v4 as uuidv4 } from "uuid";
 
